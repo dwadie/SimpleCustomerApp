@@ -13,7 +13,7 @@ import com.room.sample.view.Customer;
 public class InsertCustomerServlet extends HttpServlet{
 
 
-    // commit 5
+    // commit code 6
 
     private static final long serialVersionUID = 1L;
 
